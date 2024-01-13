@@ -1,8 +1,10 @@
 //your JS code here. If required.
-function functionNamr() {
-	alert("funtionnNmae");
+function functionName() {
+	alert("funtionName");
 }
 
 function AccioJob() {
 	alert("AccioJob");
 }
+functionName();
+AccioJob();
